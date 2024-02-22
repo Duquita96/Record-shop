@@ -1,0 +1,31 @@
+{
+  "records": [
+    {
+      "title": "React",
+      "arthist": "jeckson",
+      "city": "Bonn",
+      "id": "1708523015160"
+    }
+  ],
+  "users": [
+    {
+      "name": "Bob",
+      "age": "23",
+      "city": "Berlin",
+      "id": "1708520277176"
+    },
+    {
+      "name": "Bob",
+      "age": "23",
+      "city": "Berlin",
+      "id": "1708520293366"
+    }
+  ],
+  "orders": [
+    {
+      "title": "Paython",
+      "amount": "56",
+      "id": "1708523161092"
+    }
+  ]
+}
